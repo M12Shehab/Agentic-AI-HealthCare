@@ -43,7 +43,7 @@ graph LR
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/smart-healthcare-mcp.git
+git clone https://github.com/m12shehab/smart-healthcare-mcp.git
 cd smart-healthcare-mcp
 ```
 
@@ -88,7 +88,7 @@ python main.py
    * Diagnosis: Acute Viral Rhinosinusitis
    * Suggestions: Hydration, rest, nasal spray
    * Severity: Medium
-   * Language: English / العربية
+   * Language: English / العربية / Français
 
 ---
 
