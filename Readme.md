@@ -112,7 +112,7 @@ This is a demonstration scenario based on hypothetical patient input
 * Export medical summaries as PDF
 * Launch demo with persistent cloud backend
 * Add admin dashboard and analytics
-* I welcome collaborators or open discussions around deploying this platform in a secure healthcare sandbox
+* Open to collaboration and discussions on deploying this platform within secure, privacy-conscious healthcare environments.
 
 ---
 
