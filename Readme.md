@@ -43,7 +43,7 @@ graph LR
 
 ```bash
 git clone https://github.com/m12shehab/Agentic-AI-HealthCare.git
-cd smart-healthcare-mcp
+cd Agentic-AI-HealthCare
 ```
 
 ### Backend (FastAPI + MCP)
