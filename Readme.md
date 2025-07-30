@@ -1,4 +1,4 @@
-# 🏥 Agentic-AI Healthcare platform
+# 🏥 Agentic-AI Healthcare Platform
 
 An AI-driven healthcare platform that enables patient-doctor interaction through intelligent agents, secure APIs, and multilingual interfaces.
 
@@ -14,6 +14,7 @@ An AI-driven healthcare platform that enables patient-doctor interaction through
 ---
 
 ## 🧠 Architecture Overview
+This diagram illustrates the core agentic workflow across UI, backend, and LLM-based decision agents.
 
 ```mermaid
 graph LR
@@ -73,7 +74,7 @@ python main.py
 ---
 
 ## 🧪 Example Use Case
-
+This is a demonstration scenario based on hypothetical patient input
 1. User describes symptoms:
 
    > "My throat is sore and I'm sneezing..."
@@ -111,6 +112,7 @@ python main.py
 * Export medical summaries as PDF
 * Launch demo with persistent cloud backend
 * Add admin dashboard and analytics
+* I welcome collaborators or open discussions around deploying this platform in a secure healthcare sandbox
 
 ---
 
