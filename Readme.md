@@ -1,17 +1,16 @@
 # 🏥 Agentic-AI Healthcare platform
 
-A modern AI-powered medical platform that connects patients, doctors, and healthcare services using intelligent agents, secure APIs, and multilingual interfaces.
+An AI-driven healthcare platform that enables patient-doctor interaction through intelligent agents, secure APIs, and multilingual interfaces.
 
 ## 🌟 Key Features
 
-- 🤖 **Multi-Agent System** using MCP (Medical Control Platform)
-- 🧠 **LLM-based Diagnosis & Recommendations**
+- 🤖 **Agentic AI System** using the MCP (Model Context Protocol)	
+- 🧠 **LLM-powered Diagnosis and Recommendations**
 - 🌍 **Multilingual Support** (English, French and Arabic)
 - 🔐 **Role-based Access Control (RBAC)** for patients and doctors
 - 📅 **Appointment Management** with personal history tracking
-- 💬 **Explainable AI**: Clear justification for each diagnosis
-- 🌐 **Web-based Chat UI** using React
-
+- 💬 **Explainable AI**: Transparent reasoning for each diagnosis	
+- 🌐 **Web-based Chat** Interface built with React	
 ---
 
 ## 🧠 Architecture Overview
@@ -27,7 +26,7 @@ graph LR
     API --> MongoDB[(MongoDB Database)]
 ````
 
-* Agents are orchestrated by the MCP server
+* Agents are coordinated and executed by the MCP agent controller	
 * Data is stored securely and queried via RESTful endpoints
 
 ---
@@ -43,7 +42,7 @@ graph LR
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/m12shehab/smart-healthcare-mcp.git
+git clone https://github.com/m12shehab/Agentic-AI-HealthCare.git
 cd smart-healthcare-mcp
 ```
 
@@ -117,7 +116,7 @@ python main.py
 
 ## 📄 License
 
-MIT License — free to use and modify with attribution.
+MIT License — Open source and freely modifiable with attribution.
 
 ---
 
@@ -184,5 +183,5 @@ docker exec -it smart-healthcare-mcp-backend-1 bash
 
 
 
-Made by [Mohammed Shehab](https://github.com/m12shehab), AI Engineer & Instructor.
+Developed by [Mohammed Shehab](https://github.com/m12shehab), AI Engineer & Instructor.
 
