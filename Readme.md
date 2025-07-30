@@ -184,5 +184,5 @@ docker exec -it smart-healthcare-mcp-backend-1 bash
 
 
 
-Made with ❤️ by [Mohammed Shehab](https://github.com/m12shehab), AI Engineer & Instructor.
+Made by [Mohammed Shehab](https://github.com/m12shehab), AI Engineer & Instructor.
 
